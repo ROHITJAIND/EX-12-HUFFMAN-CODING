@@ -1,4 +1,4 @@
-# EX-12 Huffman-Coding
+# EX-12 HUFFMAN CODING 
 ### Aim:
 To implement Huffman coding to compress the data using Python. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:** 31.11.2023
 ### Software Required:
